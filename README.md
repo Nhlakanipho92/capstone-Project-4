@@ -1,4 +1,7 @@
 # capstone-Project-4
+## Description
+The Poised Project is a program written the Java language. The program is designed to be a project management system for a small structural engineering firm called 'Poised'. The company Poised works on various buildings in an engineering capacity to ensure structural integrity. The Java program was written to assist the company in keeping track of the many projects that they work on.
+
 ## Functionality
 The UML (Unified Modeling Language) diagram that is stored in the repository with the Poised project java files shows an overall plan to meet the company's requirements for a project management system. The plan is to create a main 'Menu' Java class, which will call on methods from the other sub-classes, depending on what action the user chooses from the displayed menu. Once the project is finished it will be able to capture all the necessary information about new projects, update information on existing projects, finalise existing projects, view a list of projects that are incomplete or overdue, as well as find and select a project by number or name. This project is still a work in progress. So far, the functionality of the Java program is as follows:
 
